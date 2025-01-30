@@ -5,9 +5,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 </style>
 
+header {
+
+
+
+}
+
 header img {
     width: 150px;
     height: auto;
+    margin-bottom: 20px;
+    }
+
+    nav{
+        display
     }
 
 nav{
@@ -28,4 +39,61 @@ font-weight:600;
 font-size: 1rem;
 letter-spacing: 1px;
 text-shadow: 0px 0px 8px rgb(124, 62, 194)
+}
+
+.main-container {
+    display: flex
+    gap: 200px;
+    max-width: 1000px
+    margin: 0 auto
+    flex-wrap: wrap;
+}
+
+.main-container h2 {
+    color:rgb(57, 48, 48)
+}
+
+.main-container p {
+    color: azure;
+    padding: 5px;
+    font-weight: 450;
+}
+
+.main-block {
+    background-color:blanchedalmond;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px; (17, 43, 15, )
+    display: flex;
+    flex-direction: colun
+}
+
+.main-block a {
+    color:rgb(200, 172, 225)
+    background-color:aquamarine
+    text-decoration: none;
+    padding: 5px,12px;
+    border-radius: 15px
+    max-width: 150
+    font-weigth: 
+    transition: all 0.5s;
+}
+
+
+#topo{
+    padding-top: 20px;
+}
+
+#topo{
+    text-decoration: none;
+    color:rgb(17, 175, 36)
+}
+
+#topo (a): hover{
+    color:
+}
+
+footer {
+    background-color: blue;
+    color:rgb(145, 185, 171)
+    text-align: center
 }
