@@ -1,6 +1,4 @@
-<style>
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
-</style>
 
 * {
     margin: 0;
@@ -22,7 +20,7 @@ header {
     align-items: center;
     justify-content: center;
     padding: 20px 0;
-    background: linear-gradient(to right, #A67683, #40592E);
+    background: linear-gradient(to right, #A67683, #40592E); }
 
 header img {
     width: 150px;
